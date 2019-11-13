@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C6B94A42379C554009EEF93 /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6B94A32379C554009EEF93 /* NoteViewController.swift */; };
+		1C6B94CC2379CA35009EEF93 /* note7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1C6B94C52379CA34009EEF93 /* note7.wav */; };
+		1C6B94CD2379CA35009EEF93 /* note4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1C6B94C62379CA34009EEF93 /* note4.wav */; };
+		1C6B94CE2379CA35009EEF93 /* note5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1C6B94C72379CA34009EEF93 /* note5.wav */; };
+		1C6B94CF2379CA35009EEF93 /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1C6B94C82379CA35009EEF93 /* note1.wav */; };
+		1C6B94D02379CA35009EEF93 /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1C6B94C92379CA35009EEF93 /* note6.wav */; };
+		1C6B94D12379CA35009EEF93 /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1C6B94CA2379CA35009EEF93 /* note2.wav */; };
+		1C6B94D22379CA35009EEF93 /* note3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1C6B94CB2379CA35009EEF93 /* note3.wav */; };
+		1C7E6273236FD63500A78333 /* TaskTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C7E6272236FD63500A78333 /* TaskTableViewController.swift */; };
 		1CE11AE6236FB37F0060A0BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE11AE5236FB37F0060A0BE /* AppDelegate.swift */; };
 		1CE11AE8236FB37F0060A0BE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE11AE7236FB37F0060A0BE /* SceneDelegate.swift */; };
-		1CE11AEA236FB37F0060A0BE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE11AE9236FB37F0060A0BE /* ViewController.swift */; };
 		1CE11AED236FB37F0060A0BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CE11AEB236FB37F0060A0BE /* Main.storyboard */; };
 		1CE11AEF236FB3800060A0BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CE11AEE236FB3800060A0BE /* Assets.xcassets */; };
 		1CE11AF2236FB3800060A0BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CE11AF0236FB3800060A0BE /* LaunchScreen.storyboard */; };
+		1CE11AFC236FC1530060A0BE /* TaskDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE11AFB236FC1530060A0BE /* TaskDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C6B94A32379C554009EEF93 /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
+		1C6B94C52379CA34009EEF93 /* note7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note7.wav; sourceTree = "<group>"; };
+		1C6B94C62379CA34009EEF93 /* note4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note4.wav; sourceTree = "<group>"; };
+		1C6B94C72379CA34009EEF93 /* note5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note5.wav; sourceTree = "<group>"; };
+		1C6B94C82379CA35009EEF93 /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note1.wav; sourceTree = "<group>"; };
+		1C6B94C92379CA35009EEF93 /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note6.wav; sourceTree = "<group>"; };
+		1C6B94CA2379CA35009EEF93 /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note2.wav; sourceTree = "<group>"; };
+		1C6B94CB2379CA35009EEF93 /* note3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note3.wav; sourceTree = "<group>"; };
+		1C7E6272236FD63500A78333 /* TaskTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTableViewController.swift; sourceTree = "<group>"; };
 		1CE11AE2236FB37F0060A0BE /* SegueApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SegueApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE11AE5236FB37F0060A0BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CE11AE7236FB37F0060A0BE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1CE11AE9236FB37F0060A0BE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1CE11AEC236FB37F0060A0BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1CE11AEE236FB3800060A0BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1CE11AF1236FB3800060A0BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1CE11AF3236FB3800060A0BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CE11AFB236FC1530060A0BE /* TaskDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +55,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C6B94A82379C9E7009EEF93 /* Notes */ = {
+			isa = PBXGroup;
+			children = (
+				1C6B94C82379CA35009EEF93 /* note1.wav */,
+				1C6B94CA2379CA35009EEF93 /* note2.wav */,
+				1C6B94CB2379CA35009EEF93 /* note3.wav */,
+				1C6B94C62379CA34009EEF93 /* note4.wav */,
+				1C6B94C72379CA34009EEF93 /* note5.wav */,
+				1C6B94C92379CA35009EEF93 /* note6.wav */,
+				1C6B94C52379CA34009EEF93 /* note7.wav */,
+			);
+			name = Notes;
+			sourceTree = "<group>";
+		};
 		1CE11AD9236FB37F0060A0BE = {
 			isa = PBXGroup;
 			children = (
@@ -56,13 +88,16 @@
 		1CE11AE4236FB37F0060A0BE /* SegueApplication */ = {
 			isa = PBXGroup;
 			children = (
+				1C6B94A82379C9E7009EEF93 /* Notes */,
 				1CE11AE5236FB37F0060A0BE /* AppDelegate.swift */,
 				1CE11AE7236FB37F0060A0BE /* SceneDelegate.swift */,
-				1CE11AE9236FB37F0060A0BE /* ViewController.swift */,
 				1CE11AEB236FB37F0060A0BE /* Main.storyboard */,
 				1CE11AEE236FB3800060A0BE /* Assets.xcassets */,
 				1CE11AF0236FB3800060A0BE /* LaunchScreen.storyboard */,
 				1CE11AF3236FB3800060A0BE /* Info.plist */,
+				1CE11AFB236FC1530060A0BE /* TaskDetailViewController.swift */,
+				1C7E6272236FD63500A78333 /* TaskTableViewController.swift */,
+				1C6B94A32379C554009EEF93 /* NoteViewController.swift */,
 			);
 			path = SegueApplication;
 			sourceTree = "<group>";
@@ -125,8 +160,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C6B94D12379CA35009EEF93 /* note2.wav in Resources */,
+				1C6B94CE2379CA35009EEF93 /* note5.wav in Resources */,
+				1C6B94D02379CA35009EEF93 /* note6.wav in Resources */,
 				1CE11AF2236FB3800060A0BE /* LaunchScreen.storyboard in Resources */,
+				1C6B94D22379CA35009EEF93 /* note3.wav in Resources */,
 				1CE11AEF236FB3800060A0BE /* Assets.xcassets in Resources */,
+				1C6B94CD2379CA35009EEF93 /* note4.wav in Resources */,
+				1C6B94CF2379CA35009EEF93 /* note1.wav in Resources */,
+				1C6B94CC2379CA35009EEF93 /* note7.wav in Resources */,
 				1CE11AED236FB37F0060A0BE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,8 +180,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1CE11AEA236FB37F0060A0BE /* ViewController.swift in Sources */,
 				1CE11AE6236FB37F0060A0BE /* AppDelegate.swift in Sources */,
+				1CE11AFC236FC1530060A0BE /* TaskDetailViewController.swift in Sources */,
+				1C7E6273236FD63500A78333 /* TaskTableViewController.swift in Sources */,
+				1C6B94A42379C554009EEF93 /* NoteViewController.swift in Sources */,
 				1CE11AE8236FB37F0060A0BE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
